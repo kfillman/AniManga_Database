@@ -1,51 +1,50 @@
-Title,Studio,Seasons
-Attack on Titan,Wit Studio/MAPPA,4
-Death Note,Madhouse,1
-Fullmetal Alchemist: Brotherhood,Bones,1
-My Hero Academia,Bones,6
-One Punch Man,Madhouse/J.C.Staff,2
-Demon Slayer,ufotable,3
-Steins;Gate,White Fox,2
-Hunter x Hunter (2011),Madhouse,1
-Sword Art Online,A-1 Pictures,4
-Tokyo Ghoul,Pierrot,4
-One Piece,Toei Animation,20
-Naruto,Pierrot,5
-Code Geass,Sunrise,2
-Haikyuu!!,Production I.G,4
-The Promised Neverland,CloverWorks,2
-Re:Zero − Starting Life in Another World,White Fox,2
-Dragon Ball Z,Toei Animation,9
-Neon Genesis Evangelion,Gainax,1
-Cowboy Bebop,Sunrise,1
-Fate/Zero,ufotable,2
-Jujutsu Kaisen,MAPPA,2
-Vinland Saga,Wit Studio,2
-Mob Psycho 100,Bones,3
-Assassination Classroom,Lerche,2
-No Game No Life,Madhouse,1
-Your Lie in April,A-1 Pictures,1
-Erased,A-1 Pictures,1
-Parasyte -the maxim-,Madhouse,1
-Food Wars!: Shokugeki no Soma,J.C.Staff,5
-Black Clover,Pierrot,1
-Noragami,Bones,2
-The Rising of the Shield Hero,Kinema Citrus,2
-That Time I Got Reincarnated as a Slime,8bit,2
-Dr. Stone,TMS Entertainment,2
-Overlord,Madhouse,4
-The Seven Deadly Sins,A-1 Pictures/Studio Deen,5
-Fairy Tail,A-1 Pictures/Bridge,9
-Gintama,Sunrise/BNPictures,4
-Angel Beats!,P.A. Works,1
-Toradora!,J.C.Staff,1
-The Devil is a Part-Timer!,White Fox,2
-Made in Abyss,Kinema Citrus,2
-Konosuba,Studio Deen,2
-Kaguya-sama: Love Is War,A-1 Pictures,3
-Bleach,Pierrot,17
-Ao no Exorcist (Blue Exorcist),A-1 Pictures,2
-Death Parade,Madhouse,1
-Charlotte,P.A. Works,1
-Akame ga Kill!,White Fox,1
-Gurren Lagann,Gainax,1
+1,AOT,Attack on Titan,Wit Studio/MAPPA,4
+2,FMA,Fullmetal Alchemist: Brotherhood,Bones,1
+3,DNT,Death Note,Madhouse,1
+4,OPM,One Punch Man,Madhouse/J.C.Staff,2
+5,MHA,My Hero Academia,Bones,6
+6,SAO,Sword Art Online,A-1 Pictures,4
+7,TKY,Tokyo Ghoul,Pierrot,4
+8,STG,Steins;Gate,White Fox,2
+9,HXH,Hunter x Hunter,Madhouse,1
+10,NAR,Naruto,Pierrot,5
+11,DBZ,Dragon Ball Z,Toei Animation,1
+12,OPP,One Piece,Toei Animation,20
+13,COG,Code Geass,Sunrise,2
+14,AGK,Akame ga Kill!,White Fox,1
+15,MOB,Mob Psycho 100,Bones,3
+16,DSL,Demon Slayer,ufotable,3
+17,TPN,The Promised Neverland,CloverWorks,2
+18,EVA,Neon Genesis Evangelion,Gainax,1
+19,AFF,Angel Beats!,P.A. Works,1
+20,FRY,Fairy Tail,A-1 Pictures/Bridge,3
+21,BKM,Bakuman,J.C.Staff,3
+22,HKA,Haikyuu!!,Production I.G,4
+23,NNT,The Seven Deadly Sins,A-1 Pictures/Studio Deen,5
+24,ASS,Assassination Classroom,Lerche,2
+25,CLN,Clannad,Kyoto Animation,2
+26,RZR,Re:Zero,White Fox,2
+27,NOG,No Game No Life,Madhouse,1
+28,BLC,Bleach,Pierrot,17
+29,PSY,Psycho-Pass,Production I.G,3
+30,KNY,Konosuba,Studio Deen/J.C.Staff,2
+31,YLA,Your Lie in April,A-1 Pictures,1
+32,PNH,Parasyte,Madhouse,1
+33,AKR,Akira,Tokyo Movie Shinsha,1
+34,ERD,Erased,A-1 Pictures,1
+35,ATA,A Silent Voice,Kyoto Animation,1
+36,GNT,Gintama,Sunrise/Bandai Namco Pictures,4
+37,OVL,Overlord,Madhouse,4
+38,BHH,Boku no Hero Academia,Bones,6
+39,DRR,Durarara!!,Brain's Base,2
+40,AKM,Akame ga Kill!,White Fox,1
+41,BLH,Black Lagoon,Madhouse,2
+42,TRR,Toradora!,J.C.Staff,1
+43,LOG,Log Horizon,Satelight/Studio Deen,3
+44,ANC,Anohana,A-1 Pictures,1
+45,VED,Violet Evergarden,Kyoto Animation,1
+46,CDE,Code Geass,Sunrise,2
+47,MIR,Mirai Nikki,Asread,1
+48,SLM,Slime,8bit,2
+49,AOT,Ao no Exorcist,A-1 Pictures,2
+50,FOD,Food Wars!,J.C.Staff,5
