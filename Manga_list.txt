@@ -1,0 +1,50 @@
+1,OPP,One Piece,Eiichiro Oda,Ongoing,1100,106
+2,NAR,Naruto,Masashi Kishimoto,Completed,700,72
+3,BLC,Bleach,Tite Kubo,Completed,686,74
+4,AOT,Attack on Titan,Hajime Isayama,Completed,139,34
+5,DBZ,Dragon Ball,Akira Toriyama,Completed,519,42
+6,FMA,Fullmetal Alchemist,Hiromu Arakawa,Completed,116,27
+7,DNT,Death Note,Tsugumi Ohba,Completed,108,12
+8,TKG,Tokyo Ghoul,Sui Ishida,Completed,143,14
+9,HXH,Hunter x Hunter,Yoshihiro Togashi,Ongoing,400,37
+10,BHA,Boku no Hero Academia,Kohei Horikoshi,Ongoing,390,38
+11,VGP,Vagabond,Takehiko Inoue,Hiatus,327,37
+12,BRS,Berserk,Kentaro Miura,Ongoing,364,41
+13,KGM,Kingdom,Yasuhisa Hara,Ongoing,750,67
+14,OPM,One Punch Man,ONE,Ongoing,180,26
+15,SLM,That Time I Got Reincarnated as a Slime,Fuse,Ongoing,105,22
+16,JJK,Jujutsu Kaisen,Gege Akutami,Ongoing,230,23
+17,VLN,Vinland Saga,Makoto Yukimura,Ongoing,200,26
+18,HAK,Haikyuu!!,Haruichi Furudate,Completed,402,45
+19,DSL,Demon Slayer,Koyoharu Gotouge,Completed,205,23
+20,MNS,Monster,Naoki Urasawa,Completed,162,18
+21,GNT,Gintama,Hideaki Sorachi,Completed,704,77
+22,SLM,Slam Dunk,Takehiko Inoue,Completed,276,31
+23,TPN,The Promised Neverland,Kaiu Shirai,Completed,181,20
+24,NRG,Nanatsu no Taizai,Nakaba Suzuki,Completed,346,41
+25,ASS,Assassination Classroom,Yusei Matsui,Completed,180,21
+26,BKM,Bakuman,Tsugumi Ohba,Completed,176,20
+27,FRY,Fairy Tail,Hiro Mashima,Completed,545,63
+28,CDM,Claymore,Norihiro Yagi,Completed,155,27
+29,PSY,Psyren,Toshiaki Iwashiro,Completed,145,16
+30,PLT,Platinum End,Tsugumi Ohba,Completed,58,14
+31,NRN,Noragami,Adachitoka,Ongoing,105,25
+32,BLC,Black Clover,Yuki Tabata,Ongoing,362,34
+33,MPD,MPD Psycho,Eiji Otsuka,Completed,24,24
+34,TRG,Tokyo Revengers,Ken Wakui,Completed,278,31
+35,HBD,Hell's Paradise: Jigokuraku,Yuji Kaku,Completed,127,13
+36,CLM,Chainsaw Man,Tatsuki Fujimoto,Ongoing,145,15
+37,BNB,Blue Box,Kouji Miura,Ongoing,120,12
+38,SNK,Shingeki no Kyojin,Hajime Isayama,Completed,139,34
+39,AKR,Akira,Katsuhiro Otomo,Completed,120,6
+40,DMS,Dorohedoro,Q Hayashida,Completed,167,23
+41,KNY,Kimetsu no Yaiba,Koyoharu Gotouge,Completed,205,23
+42,NGB,Neon Genesis Evangelion,Yoshiyuki Sadamoto,Completed,95,14
+43,KSM,Komi Can't Communicate,Tomohito Oda,Ongoing,400,29
+44,SNM,Shaman King,Hiroyuki Takei,Completed,285,35
+45,SNJ,Sun-Ken Rock,Boichi,Completed,171,25
+46,AKM,Akame ga Kill!,Takahiro,Completed,80,15
+47,GTO,Great Teacher Onizuka,Tohru Fujisawa,Completed,200,25
+48,BSK,Beastars,Paru Itagaki,Completed,196,22
+49,TRC,Tokyo Revengers,Ken Wakui,Completed,278,31
+50,BRG,Boruto,Ukyo Kodachi,Ongoing,80,20
