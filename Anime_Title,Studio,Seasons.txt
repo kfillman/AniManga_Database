@@ -1,0 +1,51 @@
+Title,Studio,Seasons
+Attack on Titan,Wit Studio/MAPPA,4
+Death Note,Madhouse,1
+Fullmetal Alchemist: Brotherhood,Bones,1
+My Hero Academia,Bones,6
+One Punch Man,Madhouse/J.C.Staff,2
+Demon Slayer,ufotable,3
+Steins;Gate,White Fox,2
+Hunter x Hunter (2011),Madhouse,1
+Sword Art Online,A-1 Pictures,4
+Tokyo Ghoul,Pierrot,4
+One Piece,Toei Animation,20
+Naruto,Pierrot,5
+Code Geass,Sunrise,2
+Haikyuu!!,Production I.G,4
+The Promised Neverland,CloverWorks,2
+Re:Zero − Starting Life in Another World,White Fox,2
+Dragon Ball Z,Toei Animation,9
+Neon Genesis Evangelion,Gainax,1
+Cowboy Bebop,Sunrise,1
+Fate/Zero,ufotable,2
+Jujutsu Kaisen,MAPPA,2
+Vinland Saga,Wit Studio,2
+Mob Psycho 100,Bones,3
+Assassination Classroom,Lerche,2
+No Game No Life,Madhouse,1
+Your Lie in April,A-1 Pictures,1
+Erased,A-1 Pictures,1
+Parasyte -the maxim-,Madhouse,1
+Food Wars!: Shokugeki no Soma,J.C.Staff,5
+Black Clover,Pierrot,1
+Noragami,Bones,2
+The Rising of the Shield Hero,Kinema Citrus,2
+That Time I Got Reincarnated as a Slime,8bit,2
+Dr. Stone,TMS Entertainment,2
+Overlord,Madhouse,4
+The Seven Deadly Sins,A-1 Pictures/Studio Deen,5
+Fairy Tail,A-1 Pictures/Bridge,9
+Gintama,Sunrise/BNPictures,4
+Angel Beats!,P.A. Works,1
+Toradora!,J.C.Staff,1
+The Devil is a Part-Timer!,White Fox,2
+Made in Abyss,Kinema Citrus,2
+Konosuba,Studio Deen,2
+Kaguya-sama: Love Is War,A-1 Pictures,3
+Bleach,Pierrot,17
+Ao no Exorcist (Blue Exorcist),A-1 Pictures,2
+Death Parade,Madhouse,1
+Charlotte,P.A. Works,1
+Akame ga Kill!,White Fox,1
+Gurren Lagann,Gainax,1
