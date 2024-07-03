@@ -1,0 +1,5 @@
+1,shonen,made for teenagers & features action adventure and drama
+2,shoujo,made for teenagers & features romance comedy and drama
+3,seinen,made for adults & features actions and adventure with graphic content
+4,josei,made for adults & features romance and drama while being grounded in reality
+5,Kodomomuke,made for children & features light-hearted storylines and colorful animation
